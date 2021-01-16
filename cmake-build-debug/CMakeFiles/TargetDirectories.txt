@@ -1,0 +1,3 @@
+C:/Users/maria/OneDrive/Documentos/UEM_2doCurso/PEL/Version1/cmake-build-debug/CMakeFiles/ESTACIONES_21923658.dir
+C:/Users/maria/OneDrive/Documentos/UEM_2doCurso/PEL/Version1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maria/OneDrive/Documentos/UEM_2doCurso/PEL/Version1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
